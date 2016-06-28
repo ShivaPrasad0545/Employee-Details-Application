@@ -1,10 +1,8 @@
 package com.employee;
 
-import java.sql.ResultSet;
-import java.sql.SQLException;
-
 public class Employee {
 
+	//properties of model class
 	private String employeeID;
 	private String employeeName;
 	private String emailID;
